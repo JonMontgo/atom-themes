@@ -1,15 +1,17 @@
 # Atom Themes
 Some of my settings to support my themes in atom.
 
-## Atom
+# Install
 
-### Common Atom Packages
+### Atom
+
+#### Common Atom Packages
 - [platformio-terminal](https://atom.io/packages/platformio-ide-terminal)
   ```sh
   apm install platformio-ide-terminal
   ```
 
-### Common Atom Themes
+#### Common Atom Themes
 - [atom-material-ui](https://atom.io/themes/atom-material-ui)
   ```sh
   apm install atom-material-ui
@@ -19,12 +21,19 @@ Some of my settings to support my themes in atom.
   apm install atom-material-syntax
   ```
 
-## Z-Shell
+### Z-Shell
 
-### Install Oh-My-Zshell
+#### Install Oh-My-Zshell
 - [Install](https://github.com/andresteingress/oh-my-zsh)
 
-### Theme
+#### Theme
 
 - [Agnoster](https://github.com/agnoster/agnoster-zsh-theme)
 - [Powerline Patched Fonts](https://github.com/powerline/fonts) (Needed for agnoster)
+
+# Themes
+
+## Atom Dark Material
+- [Atom Config](./material-dark/config.cson)
+
+  ![Atom Dark Material](./material-dark/preview.png)
