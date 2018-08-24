@@ -1,0 +1,27 @@
+"*":
+  core:
+    # Append this section to core or replace themes there
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  platformio-ide-terminal:
+    ansiColors:
+      normal:
+        black: "#263333"
+        blue: "#2d6e77"
+        cyan: "#07dde0"
+        green: "#14ac70"
+        magenta: "#a811a8"
+        red: "#a71c1c"
+        white: "#b1b1b1"
+        yellow: "#959516"
+      zBright:
+        brightBlue: "#287ab2"
+    core:
+      shell: "/bin/zsh" # If you use zshell: https://github.com/andresteingress/oh-my-zsh
+    style:
+      fontFamily: "Roboto Mono For Powerline" # If you use a terminal theme that needs powerline and have the fonts: https://github.com/powerline/fonts
+      fontSize: "11"
+  tabs:
+    enableVcsColoring: true
