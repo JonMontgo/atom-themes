@@ -1,7 +1,15 @@
 # Atom Themes
-Some of my settings to support my themes in atom.
+A collection of full fledged atom theme settings. Looks great with
+zshell and the agnoster theme for zshell.
 
 # Install
+
+### Manual Override
+Go to your atom home directory usually `~/.atom/config.cson` and apply the
+key value pairs that you would like from the theme's config.cson
+
+### Theme Setting Binder Install
+(Comming Soon)
 
 ### Atom
 
@@ -33,7 +41,14 @@ Some of my settings to support my themes in atom.
 
 # Themes
 
-## Atom Dark Material
+## Material Dark
 - [Atom Config](./material-dark/config.cson)
 
   ![Atom Dark Material](./material-dark/preview.png)
+
+## Material Solar Sun
+- [Atom Config](./material-solar-sun/config.cson)
+
+  ![Atom Dark Material](./material-solar-sun/preview.png)
+
+## (Coming Soon Material Solar Moon)

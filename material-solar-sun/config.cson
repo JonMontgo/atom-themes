@@ -1,0 +1,41 @@
+"*":
+  core:
+    # Append this section to core or replace themes there
+    themes: [
+      "atom-material-ui"
+      "solarized-light-syntax"
+    ]
+  "atom-material-ui":
+    colors:
+      abaseColor: "#586e75"
+      accentColor: "#657b83"
+      genAccent: true
+    tabs:
+      compactTabs: true
+      tintedTabBar: true
+    ui: {}
+  "platformio-ide-terminal":
+    ansiColors:
+      normal:
+        black: "#eee8d5"
+        blue: "#839496"
+        cyan: "#2aa198"
+        green: "#859900"
+        magenta: "#d33682"
+        red: "#dc322f"
+        white: "#f7f4ea"
+        yellow: "#b58900"
+      zBright:
+        brightBlack: "#002b36"
+        brightBlue: "#839496"
+        brightCyan: "#93a1a1"
+        brightGreen: "#586e75"
+        brightMagenta: "#6c71c4"
+        brightRed: "#cb4b16"
+        brightWhite: "#fffbee"
+        brightYellow: "#657b83"
+    style:
+      fontFamily: "Roboto Mono For Powerline"
+      fontSize: 11
+  tabs:
+    enableVcsColoring: true
