@@ -36,6 +36,6 @@
         brightYellow: "#657b83"
     style:
       fontFamily: "Roboto Mono For Powerline"
-      fontSize: 11
+      fontSize: "11"
   tabs:
     enableVcsColoring: true
