@@ -6,7 +6,9 @@ zshell and the agnoster theme for zshell.
 
 ### Manual Override
 Go to your atom home directory usually `~/.atom/config.cson` and apply the
-key value pairs that you would like from the theme's config.cson
+key value pairs that you would like from the theme's `config.cson`. Do the same
+thing for the `styles.less` in the root of this project folder and apply this
+over atoms `styles.less` in the atom home directory.
 
 ### Theme Setting Binder Install
 (Comming Soon)
